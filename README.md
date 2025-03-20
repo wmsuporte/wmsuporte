@@ -2,4 +2,4 @@
 
 Quadro de cards: https://github.com/orgs/Grove-Company/projects/11
 
-Abrir novos cards: 
+Abrir novos cards: https://github.com/orgs/Grove-Company/discussions
